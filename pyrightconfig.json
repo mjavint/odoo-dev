@@ -1,0 +1,8 @@
+{
+  "extraPaths": [
+    "/Users/mjavint/Repos/odoo/odoo.17.0",
+    "/Users/mjavint/Repos/odoo/odoo.17.0/addons",
+    "/Users/mjavint/Repos/enterprise/enterprise.17.0",
+    "/Users/mjavint/Workspaces/Odoo/YDR/odoo-dev/addons"
+  ]
+}

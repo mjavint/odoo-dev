@@ -341,4 +341,4 @@ pyrightconfig.json
 
 
 # Others Files
-#pyrightconfig.json
+!pyrightconfig.json
